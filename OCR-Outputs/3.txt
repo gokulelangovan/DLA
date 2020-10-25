@@ -1,0 +1,88 @@
+Current Controlled Trials in
+Cardiovascular Medicine
+
+Review
+
+O
+
+Individualizing therapy = in search of approaches to maximize the
+
+benefit of drug treatment (Il)
+Cornel Pater*
+
+Addresa: Hanaver, Germany
+Email: Cornel Pates* - drcomelpaergaal.com
+* Corresponding author
+
+Pished: 16 August 2004
+
+Cusrent Centredied Triak ie Cartiavascutar Mechone 2004, §:7 doi: 10.1186/1468-6706-S.7
+
+‘This article & available from: herpdicwm controlied-crials. com/contenc’$/1/7
+© 2004 Pacer; licensee Bichted Cencrat Led.
+
+Received: 12 March 2004
+Accepced: 16 August 2004
+
+This is an open-access article distributed under the terms of the Creatwe Commoes Arritucion Licerse (hry: /icreativecommons.org'licenses'by'2.0),
+which permits unrestricted use, dstribuban, and reproduction mm any medi.en, provided the original work is property cited.
+
+Abstract
+
+Adjusting drug therapy to the individual, a common approach in clinical practice, has evolved from
+1) dose adjustments based on clinical effects to 2) dose adjustments made in response to drug levels
+and, more recently, to 3) dose adjusements based on deoxyribonucleic acid (DNA) sequencing of
+drug-metabolizing enzyme genes, suggesting a slow drug metabolism phenotype. This development
+dates back to the middle of the 20% century, when several diferent drugs were administered on
+the basis of individual plasma concentration measurements. Genetic control of drug metabolism
+was well established by the 1960s, and pharmakokinetic-based individualized therapy was in use by
+
+1973.
+
+Patterns of drug prescription
+
+Despite tremendous advances in the science and technol-
+ogy of drug development, as well the emergence of guid-
+ance and consensus building among scientists, many
+clinicians, pharmacists, and consumers remain unin-
+formed regarding the scientific basis of establishing
+bioequivalence, the generic-drug approval process, and
+the issues related to individualizing therapy in general
+[7.8]. The consequence may be dnig dosing errors: over-
+dosing or underdosing of drugs, resulting in the occur-
+rence of harmful effects or the nonoccurrence of the
+expected treatment benefit.
+
+Recent information [9] indicates that doctors are not con-
+sistently prescribing proven treatments at recommended
+doses, and at times they are not prescribing proven treat-
+ments at all. A decrease in dose may decrease the efficacy
+{relative risk reduction [RRR]) of therapy and thereby
+decrease the treatment's net benefit. Not prescribing an
+agent will effectively nullify the potential benefit to indi-
+
+viduals, and when repeated frequently enough, failure to
+prescribe the agent will significantly decrease the benefit
+to the population as a whole. Ai other times, doctors tend
+to prescribe a drug mote generally than clinical wials dic-
+tate. The treatment of a population with lower outcome
+prevalence (OP) decreases net benefit and may lead to
+harm. Overdosing may increase treatment-related harm,
+and underdosing may erode efficacy; both will result in
+diminished treatment benefits. Finally, noncompliance
+on the part of the patient may lead to a decrease in efficacy
+and a requisite decrease in net weatment benefit If a
+patient reduces the dose without totally eliminating the
+drug, the risk of non-dose-related side effects of treatment
+may remain.
+
+The relationship between the terms mentioned above,
+which govern weatment success, can be expressed mathe-
+matically as follows [10-12]:
+Net Benefit = RRR * OP - Harm
+
+Page 1 of 7
+
+(eage number not for citation purposes)
+
+BloMed Centd
